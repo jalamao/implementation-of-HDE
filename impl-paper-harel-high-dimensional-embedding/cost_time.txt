@@ -1,0 +1,488 @@
+tests.csv:0
+3elt.csv:105
+grid_50x50.csv:17
+grid_100x100_corners_connected.csv:230
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+tri_mesh_6:0
+3elt.csv:104
+grid_50x50.csv:17
+grid_100x100_corners_connected.csv:240
+grid_50x50.csv:17
+grid_50x50.csv: time of computation=2  time of plot=14total time=16
+version:PCAgrid_50x50.csv: time_of_computation=2  time_of_plot=15  total_time=17
+version:PIT  grid_50x50.csv: time_of_computation=2  time_of_plot=14  total_time=16
+version:PCA  grid_50x50.csv: time_of_computation=2  time_of_plot=5  total_time=8
+version:PCA  grid_50x50.csv: time_of_computation=2  time_of_plot=13  total_time=16
+version:PCA  grid_50x50.csv: time_of_computation=2  time_of_plot=14  total_time=16
+version:PCA  grid_50x50.csv: time_of_computation=2  time_of_plot=5  total_time=8
+version:HDE-MDS  tri_mesh_6: time_of_computation=0  time_of_plot=0  total_time=0
+version:HDE-MDS  tri_mesh_6: time_of_computation=0  time_of_plot=0  total_time=0
+version:HDE-MDS  grid_50x50.csv: time_of_computation=1  time_of_plot=5  total_time=7
+version:HDE-MDS  grid_50x50.csv: time_of_computation=1  time_of_plot=5  total_time=7
+version:HDE-MDS  3elt.csv: time_of_computation=7  time_of_plot=14  total_time=22
+version:HDE-MDS  grid_50x50.csv: time_of_computation=2  time_of_plot=5  total_time=8
+version:HDE-MDS  grid_50x50.csv: time_of_computation=5  time_of_plot=5  total_time=10
+version:HDE-MDS  grid_50x50.csv: time_of_computation=3  time_of_plot=5  total_time=8
+version:HDE-MDS  grid_50x50.csv: time_of_computation=3  time_of_plot=5  total_time=8
+version:HDE-MDS  grid_50x50.csv: time_of_computation=3  time_of_plot=5  total_time=8
+version:HDE-MDS  3elt.csv: time_of_computation=10  time_of_plot=14  total_time=25
+version:Pivot-MDS  3elt.csv: time_of_computation=14  time_of_plot=14  total_time=28
+version:Pivot-MDS  3elt.csv: time_of_computation=14  time_of_plot=14  total_time=29
+version:Pivot-MDS  grid_50x50.csv: time_of_computation=5  time_of_plot=5  total_time=10
+version:Pivot-MDS  grid_50x50.csv: time_of_computation=14  time_of_plot=5  total_time=19
+version:Pivot-MDS  grid_50x50.csv: time_of_computation=14  time_of_plot=5  total_time=19
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100time_of_computation=14  time_of_plot=5  total_time=20
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=4  time_of_plot=5  total_time=9
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=3  time_of_plot=5  total_time=8
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=3  time_of_plot=5  total_time=9
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=3  time_of_plot=5  total_time=9
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=3  time_of_plot=5  total_time=8
+version:Pivot-MDS  3elt.csv: nodes=4720  edges=13722  time_of_computation=11  time_of_plot=14  total_time=26
+version:HDE-MDS  3elt.csv: nodes=4720  edges=13722  time_of_computation=11  time_of_plot=13  total_time=24
+version:HDE-MDS  3elt.csv: nodes=4720  edges=13722  time_of_computation=13  time_of_plot=13  total_time=27
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=13  time_of_plot=14  total_time=27
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=11  time_of_plot=13  total_time=25
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=11  time_of_plot=14  total_time=25
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23
+version:PCA  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=24
+version:PCA  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8
+version:PCA  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=36  time_of_plot=5  total_time=42
+version:HDE-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=35  time_of_plot=5  total_time=41
+version:HDE-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=3  time_of_plot=5  total_time=9
+version:HDE-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=5  time_of_plot=5  total_time=10
+version:HDE-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=5  time_of_plot=5  total_time=10
+version:HDE-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=7
+version:HDE-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=14  time_of_plot=5  total_time=19
+version:Pivot-MDS  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=14  time_of_plot=5  total_time=19
+version:FICA  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8
+version:FICA  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23
+version:FICA  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=35  time_of_plot=20  total_time=56
+version:PCA  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=35  time_of_plot=20  total_time=56
+version:KPCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=11  time_of_plot=14  total_time=26   name of graph:un_figure_3elt.png
+version:KPCA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=13  time_of_plot=13  total_time=26   name of graph:un_figure_3elt.png
+version:KPCA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=13  time_of_plot=14  total_time=27   name of graph:un_figure_3elt.png
+version:KPCA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=10  time_of_plot=14  total_time=24   name of graph:un_figure_3elt.png
+version:KPCA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=10  time_of_plot=13  total_time=24   name of graph:un_figure_3elt.png
+version:KPCA  normalization:Ture  3elt.csv: nodes=4720  edges=13722  time_of_computation=10  time_of_plot=13  total_time=24   name of graph:un_figure_3elt.png
+version:KPCA  normalization:Ture  3elt.csv: nodes=4720  edges=13722  time_of_computation=10  time_of_plot=14  total_time=24   name of graph:un_figure_3elt.png
+version:KPCA  normalization:Ture  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:KPCA  normalization:Ture  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:figure_tri_mesh_6.png
+version:PCA  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_snowflake_A.csv.png
+version:PCA  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_snowflake_A.csv.png
+version:PCA  normalization:False  uk.csv: nodes=4824  edges=6837  time_of_computation=4  time_of_plot=24  total_time=29   name of graph:images/figure_uk.csv.png
+version:PCA  normalization:False  uk.csv: nodes=4824  edges=6837  time_of_computation=6  time_of_plot=26  total_time=32   name of graph:images/figure_uk.csv.png
+version:PCA  normalization:False  sierpinski_06.csv: nodes=1095  edges=2187  time_of_computation=0  time_of_plot=4  total_time=4   name of graph:images/figure_sierpinski_06.csv.png
+version:PCA  normalization:False  cylinder_rnd_100_100.csv: nodes=9497  edges=17941  time_of_computation=26  time_of_plot=165  total_time=192   name of graph:images/figure_cylinder_rnd_100_100.csv.png
+version:PCA  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_spider_A.csv.png
+version:PCA  normalization:False  spider_C.csv: nodes=10000  edges=22000  time_of_computation=22  time_of_plot=250  total_time=272   name of graph:images/figure_spider_C.csv.png
+version:PCA  normalization:False  crack.csv: nodes=10240  edges=30380  time_of_computation=38  time_of_plot=464  total_time=503   name of graph:images/figure_crack.csv.png
+version:PCA  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:PCA  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:KPCA  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:KPCA  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:KPCA  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:KPCA  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-MDS  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-MDS  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:Pivot-MDS  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tree_06_03.csv.png
+version:Pivot-MDS  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tree_06_03.csv.png
+version:PCA  normalization:Ture  4elt.csv: nodes=15606  edges=45878  time_of_computation=103  time_of_plot=44  total_time=147   name of graph:images/figure_4elt.csv.png
+version:PCA  normalization:False  4elt.csv: nodes=15606  edges=45878  time_of_computation=102  time_of_plot=44  total_time=147   name of graph:images/un_figure_4elt.csv.png
+version:FICA  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/un_figure_tree_06_03.csv.png
+version:FICA  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_snowflake_A.csv.png
+version:NMF  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_snowflake_A.csv.png
+version:LatentDirichletAllocation  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/un_figure_snowflake_A.csv.png
+version:NMF  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_snowflake_A.csv.png
+version:NMF  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=13  total_time=23   name of graph:images/un_figure_3elt.csv.png
+version:TruncatedSVD  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_snowflake_A.csv.png
+version:PCA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=13  total_time=21   name of graph:images/un_figure_3elt.csv.png
+version:PCA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/un_figure_grid_50x50.csv.png
+version:PCA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/un_figure_grid_50x50.csv.png
+version:PCA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/un_figure_grid_50x50.csv.png
+version:PCA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/un_figure_grid_50x50.csv.png
+version:PCA  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=30  time_of_plot=20  total_time=51   name of graph:images/un_figure_grid_100x100_corners_connected.csv.png
+version:PCA  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=34  time_of_plot=20  total_time=54   name of graph:images/un_figure_grid_100x100_corners_connected.csv.png
+version:PCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/un_figure_tri_mesh_6.png
+version:PCA  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_tri_mesh_6.png
+version:HDE  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=3  time_of_plot=0  total_time=4   name of graph:images/un_figure_spider_A.csv.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=11  time_of_plot=0  total_time=12   name of graph:images/un_figure_spider_A.csv.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=11  time_of_plot=0  total_time=12   name of graph:images/un_figure_spider_A.csv.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=11  time_of_plot=0  total_time=12   name of graph:images/un_figure_spider_A.csv.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=7  time_of_plot=0  total_time=8   name of graph:images/un_figure_spider_A.csv.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/un_figure_spider_A.csv.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=3  time_of_plot=0  total_time=4   name of graph:images/un_figure_spider_A.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/un_figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=54  time_of_plot=0  total_time=55   name of graph:images/un_figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=43  time_of_plot=0  total_time=44   name of graph:images/un_figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=45  time_of_plot=0  total_time=46   name of graph:images/un_figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tests.csv: nodes=99  edges=99  time_of_computation=7  time_of_plot=0  total_time=7   name of graph:images/un_figure_tests.csv.png
+version:HDE-FR  normalization:False  tests.csv: nodes=99  edges=99  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/un_figure_tests.csv.png
+version:HDE-FR  normalization:False  tests.csv: nodes=99  edges=99  time_of_computation=22  time_of_plot=0  total_time=23   name of graph:images/un_figure_tests.csv.png
+version:HDE-FR  normalization:False  tests.csv: nodes=99  edges=99  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/un_figure_tests.csv.png
+version:HDE-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/figure_tests.csv.png
+version:HDE-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/figure_tests.csv.png
+version:HDE-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/figure_tests.csv.png
+version:HDE-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/figure_tests.csv.png
+version:HDE-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/figure_tests.csv.png
+version:HDE-FICA-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/figure_tests.csv.png
+version:HDE-FICA-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=22  time_of_plot=0  total_time=22   name of graph:images/figure_tests.csv.png
+version:HDE-FICA-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=13  time_of_plot=0  total_time=14   name of graph:images/figure_tests.csv.png
+version:HDE-FICA-FR  normalization:Ture  tests.csv: nodes=99  edges=99  time_of_computation=22  time_of_plot=0  total_time=23   name of graph:images/figure_tests.csv.png
+version:HDE-FICA-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=31  time_of_plot=0  total_time=32   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=30  time_of_plot=0  total_time=31   name of graph:images/figure_spider_A.csv.png
+version:Pivot-MDS  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_spider_A.csv.png
+version:Pivot-MDS  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_spider_A.csv.png
+version:Pivot-MDS  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_spider_A.csv.png
+version:HDE-KPCA  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_spider_A.csv.png
+version:HDE-KPCA  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=2  time_of_plot=0  total_time=2   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=3  time_of_plot=0  total_time=3   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=3  time_of_plot=0  total_time=4   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=3  time_of_plot=0  total_time=4   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=3  time_of_plot=0  total_time=4   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  spider_A.csv: nodes=100  edges=220  time_of_computation=4  time_of_plot=0  total_time=4   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:Ture  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=3  time_of_plot=0  total_time=4   name of graph:images/figure_cylinder_rnd_010_010.csv.png
+version:HDE  normalization:Ture  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_cylinder_rnd_010_010.csv.png
+version:HDE  normalization:Ture  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_cylinder_rnd_010_010.csv.png
+version:HDE-NMF  normalization:Ture  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_cylinder_rnd_010_010.csv.png
+version:HDE-FICA-FR  normalization:Ture  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=3  time_of_plot=0  total_time=4   name of graph:images/figure_cylinder_rnd_010_010.csv.png
+version:HDE  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_sierpinski_04.csv.png
+version:HDE  normalization:Ture  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_sierpinski_04.csv.png
+version:HDE  normalization:Ture  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_sierpinski_04.csv.png
+version:HDE  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_sierpinski_04.csv.png
+version:HDE-FR  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=5  time_of_plot=0  total_time=6   name of graph:images/un_figure_sierpinski_04.csv.png
+version:HDE  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=1  time_of_plot=2  total_time=3   name of graph:images/un_figure_tree_06_04.csv.png
+version:HDE  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=1  time_of_plot=2  total_time=3   name of graph:images/un_figure_tree_06_04.csv.png
+version:HDE-FR  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=56  time_of_plot=2  total_time=59   name of graph:images/un_figure_tree_06_04.csv.png
+version:HDE-FR  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=67  time_of_plot=2  total_time=69   name of graph:images/un_figure_tree_06_04.csv.png
+version:HDE-FICA  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=1  time_of_plot=2  total_time=3   name of graph:images/un_figure_tree_06_04.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/un_figure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/figure_grid_50x50.csv.png
+version:HDE  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/MTYfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/MTYfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/MTYfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/MTYfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/MTYfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/MTYfigure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/figure_grid_50x50.csv.png
+version:HDE  normalization:False  4elt.csv: nodes=15606  edges=45878  time_of_computation=105  time_of_plot=44  total_time=150   name of graph:images/figure_4elt.csv.png
+version:HDE-FICA  normalization:False  4elt.csv: nodes=15606  edges=45878  time_of_computation=104  time_of_plot=46  total_time=150   name of graph:images/ICAfigure_4elt.csv.png
+version:HDE  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:False  spider_A.csv: nodes=100  edges=220  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_spider_A.csv.png
+version:HDE-FR  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=2  time_of_plot=0  total_time=3   name of graph:images/figure_snowflake_A.csv.png
+version:HDE-FR  normalization:False  snowflake_B.csv: nodes=971  edges=970  time_of_computation=255  time_of_plot=1  total_time=257   name of graph:images/figure_snowflake_B.csv.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tri_mesh_6: nodes=15  edges=30  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tri_mesh_6.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=19  time_of_plot=0  total_time=20   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=19  time_of_plot=0  total_time=20   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=19  time_of_plot=0  total_time=20   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=37  time_of_plot=0  total_time=37   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=55  time_of_plot=0  total_time=56   name of graph:images/figure_tree_06_03.csv.png
+version:HDE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=19  time_of_plot=0  total_time=20   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=18  time_of_plot=0  total_time=19   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=56  time_of_plot=0  total_time=57   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=56  time_of_plot=0  total_time=57   name of graph:images/figure_tree_06_03.csv.png
+version:Pivot-MDS  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-NMF  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-PIT  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-PIT  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-PIT  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=56  time_of_plot=0  total_time=57   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-PIT  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=57  time_of_plot=0  total_time=58   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=54  time_of_plot=0  total_time=55   name of graph:images/figure_tree_06_03.csv.png
+version:HDE-FICA  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/expfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/expfigure_tree_06_03.csv.png
+version:HDE-FICA  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/expfigure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=56  time_of_plot=0  total_time=57   name of graph:images/expfigure_tree_06_03.csv.png
+version:HDE  normalization:Ture  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=190.114   name of graph:images/expfigure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=0.767796  time_of_plot=1.4e-05  total_time=0.136429   name of graph:images/expfigure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=737851  time_of_plot=14  total_time=998417   name of graph:images/expfigure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=0.813157  time_of_plot=0.310714  total_time=0.123915   name of graph:images/expfigure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23   name of graph:images/expfigure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=8  time_of_plot=14  total_time=22   name of graph:images/expfigure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=8  time_of_plot=14  total_time=22   name of graph:images/figure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=24   name of graph:images/figure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=8  time_of_plot=14  total_time=22   name of graph:images/un_figure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=14  total_time=22   name of graph:images/un_figure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=14  total_time=22   name of graph:images/un_figure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=8  time_of_plot=14  total_time=22   name of graph:images/un_figure_3elt.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/un_figure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/un_figure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/figure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/figure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/figure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/figure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=32  time_of_plot=21  total_time=53   name of graph:images/un_figure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=32  time_of_plot=21  total_time=53   name of graph:images/un_figure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=32  time_of_plot=21  total_time=53   name of graph:images/un_figure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=36  time_of_plot=21  total_time=57   name of graph:images/figure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/figure_sierpinski_04.csv.png
+version:HDE  normalization:False  4elt.csv: nodes=15606  edges=45878  time_of_computation=109  time_of_plot=48  total_time=158   name of graph:images/figure_4elt.csv.png
+version:HDE  normalization:False  4elt.csv: nodes=15606  edges=45878  time_of_computation=103  time_of_plot=48  total_time=151   name of graph:images/un_figure_4elt.csv.png
+version:HDE  normalization:False  4elt.csv: nodes=15606  edges=45878  time_of_computation=101  time_of_plot=47  total_time=148   name of graph:images/un_figure_4elt.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/un_figure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/un_figure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/un_figure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=13  total_time=23   name of graph:images/un_figure_3elt.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23   name of graph:images/un_figure_3elt.csv.png
+version:HDE-FICA  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=36  time_of_plot=20  total_time=57   name of graph:images/un_figure_grid_100x100_corners_connected.csv.png
+version:HDE-FICA  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=35  time_of_plot=20  total_time=56   name of graph:images/un_figure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=28  time_of_plot=19  total_time=48   name of graph:images/figure_sierpinski_08.csv.png
+version:HDE-FICA  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=28  time_of_plot=19  total_time=48   name of graph:images/un_figure_sierpinski_08.csv.png
+version:HDE-FICA  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=28  time_of_plot=19  total_time=48   name of graph:images/un_figure_sierpinski_08.csv.png
+version:HDE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/un_figure_snowflake_A.csv.png
+version:HDE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/un_figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=57  time_of_plot=0  total_time=58   name of graph:images/un_figure_tree_06_03.csv.png
+version:HDE-FR  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=8  time_of_plot=0  total_time=9   name of graph:images/un_figure_snowflake_A.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=14  total_time=22   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=14  total_time=22   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=14  total_time=21   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=14  total_time=22   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=13  total_time=21   name of graph:images/mtyfigure1_3elt.csv.png
+version:HDE-FICA  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=32  time_of_plot=20  total_time=53   name of graph:images/mtyfigure1_grid_100x100_corners_connected.csv.png
+version:HDE-FICA  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=32  time_of_plot=20  total_time=52   name of graph:images/mtyfigure1_grid_100x100_corners_connected.csv.png
+version:HDE-FICA  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=26  time_of_plot=21  total_time=47   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE-FICA  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=26  time_of_plot=19  total_time=45   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE-FICA  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=26  time_of_plot=20  total_time=46   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE-FICA  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=25  time_of_plot=20  total_time=46   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE-FICA  normalization:False  cylinder_rnd_032_032.csv: nodes=985  edges=1866  time_of_computation=0  time_of_plot=2  total_time=2   name of graph:images/mtyfigure1_cylinder_rnd_032_032.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=1  total_time=2   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=1   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=10  time_of_plot=2  total_time=12   name of graph:images/mtyfigure_tree_06_04.csv.png
+version:HDE-TSNE  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=8  time_of_plot=2  total_time=10   name of graph:images/mtyfigure_tree_06_04.csv.png
+version:HDE-TSNE  normalization:False  tree_06_04.csv: nodes=1555  edges=1554  time_of_computation=10  time_of_plot=2  total_time=12   name of graph:images/mtyfigure_tree_06_04.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=20  time_of_plot=5  total_time=26   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=21  time_of_plot=5  total_time=26   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=15  time_of_plot=5  total_time=21   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=21  time_of_plot=5  total_time=27   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:False  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:Ture  snowflake_A.csv: nodes=98  edges=97  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_snowflake_A.csv.png
+version:HDE-TSNE  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=20  time_of_plot=5  total_time=26   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=19  time_of_plot=5  total_time=24   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:Ture  3elt.csv: nodes=4720  edges=13722  time_of_computation=47  time_of_plot=13  total_time=61   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-TSNE  normalization:Ture  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=130  time_of_plot=22  total_time=152   name of graph:images/mtyfigure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SE  normalization:Ture  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SV  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SV  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SV  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-SV  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-SV  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=7  time_of_plot=13  total_time=21   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-Isomap  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-Isomap  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=4  time_of_plot=5  total_time=9   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-Isomap  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=3  time_of_plot=5  total_time=9   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-Isomap  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=4  time_of_plot=5  total_time=9   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-Isomap  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=4  time_of_plot=5  total_time=10   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-MDS  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=59  time_of_plot=5  total_time=65   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=56  time_of_plot=0  total_time=57   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-FICA-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=77  time_of_plot=0  total_time=78   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SPE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SPE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-SPE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:Pivot-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:Pivot-MDS  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-MDS  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-Level  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=13  total_time=23   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=13  total_time=23   name of graph:images/mtyfigure1_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23   name of graph:images/mtyfigure1_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=13  total_time=23   name of graph:images/mtyfigure1_3elt.csv.png
+version:HDE  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=13  total_time=23   name of graph:images/mtyfigure1_3elt.csv.png
+version:HDE  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=35  time_of_plot=20  total_time=55   name of graph:images/mtyfigure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=35  time_of_plot=20  total_time=55   name of graph:images/mtyfigure1_grid_100x100_corners_connected.csv.png
+version:HDE-Level  normalization:False  grid_100x100_corners_connected.csv: nodes=10202  edges=20204  time_of_computation=34  time_of_plot=20  total_time=55   name of graph:images/mtyfigure_grid_100x100_corners_connected.csv.png
+version:HDE  normalization:False  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_cylinder_rnd_010_010.csv.png
+version:HDE  normalization:False  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure1_cylinder_rnd_010_010.csv.png
+version:HDE-Level  normalization:False  cylinder_rnd_010_010.csv: nodes=97  edges=178  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_cylinder_rnd_010_010.csv.png
+version:HDE  normalization:False  cylinder_rnd_032_032.csv: nodes=985  edges=1866  time_of_computation=0  time_of_plot=2  total_time=3   name of graph:images/mtyfigure1_cylinder_rnd_032_032.csv.png
+version:HDE-Level  normalization:False  cylinder_rnd_032_032.csv: nodes=985  edges=1866  time_of_computation=0  time_of_plot=2  total_time=3   name of graph:images/mtyfigure_cylinder_rnd_032_032.csv.png
+version:HDE-Level  normalization:False  cylinder_rnd_032_032.csv: nodes=985  edges=1866  time_of_computation=0  time_of_plot=2  total_time=3   name of graph:images/mtyfigure_cylinder_rnd_032_032.csv.png
+version:HDE-Level  normalization:False  cylinder_rnd_032_032.csv: nodes=985  edges=1866  time_of_computation=0  time_of_plot=2  total_time=3   name of graph:images/mtyfigure_cylinder_rnd_032_032.csv.png
+version:HDE  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure1_sierpinski_04.csv.png
+version:HDE-Level  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_sierpinski_04.csv.png
+version:HDE-Level  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_sierpinski_04.csv.png
+version:HDE-Level  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_sierpinski_04.csv.png
+version:HDE-Level  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_sierpinski_04.csv.png
+version:HDE-Level  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_sierpinski_04.csv.png
+version:HDE-Level  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_sierpinski_04.csv.png
+version:HDE-Level  normalization:False  sierpinski_04.csv: nodes=123  edges=243  time_of_computation=0  time_of_plot=0  total_time=0   name of graph:images/mtyfigure_sierpinski_04.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=17  time_of_plot=5  total_time=23   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=2   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=1  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=21  time_of_plot=5  total_time=27   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=9  time_of_plot=5  total_time=14   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=8  time_of_plot=5  total_time=14   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-TSNE-FR  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=75  time_of_plot=0  total_time=75   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-FICA  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/mtyfigure_tree_06_03.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=9  time_of_plot=14  total_time=23   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-FICA  normalization:False  3elt.csv: nodes=4720  edges=13722  time_of_computation=10  time_of_plot=13  total_time=24   name of graph:images/mtyfigure_3elt.csv.png
+version:HDE-FICA  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE-FICA  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:Ture  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=7   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure_grid_50x50.csv.png
+version:HDE  normalization:False  uk.csv: nodes=4824  edges=6837  time_of_computation=7  time_of_plot=7  total_time=14   name of graph:images/mtyfigure_uk.csv.png
+version:HDE-FICA  normalization:False  uk.csv: nodes=4824  edges=6837  time_of_computation=7  time_of_plot=7  total_time=14   name of graph:images/mtyfigure1_uk.csv.png
+version:HDE-Level  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-Level  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-Level  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=7   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-Level  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE-FICA  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=1  time_of_plot=5  total_time=7   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE  normalization:False  grid_50x50.csv: nodes=2601  edges=5100  time_of_computation=2  time_of_plot=5  total_time=8   name of graph:images/mtyfigure1_grid_50x50.csv.png
+version:HDE  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=26  time_of_plot=21  total_time=47   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=25  time_of_plot=19  total_time=44   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=25  time_of_plot=19  total_time=45   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=25  time_of_plot=19  total_time=45   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE  normalization:False  sierpinski_08.csv: nodes=9843  edges=19683  time_of_computation=25  time_of_plot=19  total_time=45   name of graph:images/mtyfigure1_sierpinski_08.csv.png
+version:HDE  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-FICA  normalization:False  tree_06_03.csv: nodes=259  edges=258  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure1_tree_06_03.csv.png
+version:HDE-FICA  normalization:False  neuralnet.csv: nodes=6  edges=8  time_of_computation=0  time_of_plot=0  total_time=1   name of graph:images/mtyfigure1_neuralnet.csv.png
+version:HDE-FICA  normalization:False  neuralnet.csv: nodes=6  edges=8  time_of_computation=0  time_of_plot=1  total_time=1   name of graph:images/mtyfigure1_neuralnet.csv.png
